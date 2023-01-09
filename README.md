@@ -1,10 +1,10 @@
-# Fitness-data-analysis
+# Fitness Data Analysis
 
 Analyzing seven years worth of training data tracked on the Runkepper app.
 
-Objective
+# Objective
 
-Ansewring question like:
+# Answering question like:
 
 1.How fast,long,and intense was my run today?
 
@@ -16,11 +16,11 @@ Ansewring question like:
 
 5.How do i perform compared to others?
 
-Data Source
+# Data Source
 
 Runkepper App
 
-Tool Used:
+# Tool Used:
 
 Libraries like Pandas and Numpy for finding insights.
 
